@@ -5,10 +5,11 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImChangGyu&layout=compact)
 **<h3>I’m currently learning</h3>**
 
+> - Javascript
 > - React.js
-> - React Native
+> - Typescript
 
 **<h3>I will learning</h3>**
 
 > - Svelte.js
-> - Typescript
+> - React Native
