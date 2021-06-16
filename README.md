@@ -7,4 +7,3 @@
 > - JavaScript
 > - React.js
 > - Typescript
-> - React Native
