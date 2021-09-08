@@ -1,9 +1,13 @@
-## Hi, I'm ImChangGyu
+## Hi, I'm Im Chang gyu who wants to be a 💻 Front-end Developer
 
-### I want to be a Front-end Developer💻.
+**Languages** : javascript, typescript
 
-**<h3>Stack</h3>**
+**Frameworks** : React.js
 
-> - JavaScript
-> - React.js
-> - Typescript
+**State Management** : recoil
+
+**Style** : css, scss, styled-components, Emotion.js
+
+**Project** : Dotori
+
+**Contact Me** : [instagram](https://www.instagram.com/im_chang_1217/?hl=ko), [velog](https://velog.io/@im_chang_1217), chang.develop@gmail.com
