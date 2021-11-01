@@ -8,6 +8,6 @@
 
 **Style** : css, scss, styled-components, Emotion.js
 
-**Project** : Dotori
+**Project** : Dotori, the-moment
 
 **Contact Me** : [instagram](https://www.instagram.com/im_chang_1217/?hl=ko), [velog](https://velog.io/@im_chang_1217), chang.develop@gmail.com
