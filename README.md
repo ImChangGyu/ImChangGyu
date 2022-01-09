@@ -2,7 +2,7 @@
 
 **Languages** : javascript, typescript
 
-**Frameworks** : React.js
+**Frameworks** : React.js, Next.js
 
 **State Management** : recoil
 
