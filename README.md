@@ -10,4 +10,4 @@
 
 **Project** : Dotori, the-moment
 
-**Contact Me** : [instagram](https://www.instagram.com/im_chang_1217/?hl=ko), chang.develop@gmail.com
+**Contact Me** : [instagram](https://www.instagram.com/chang.gyu__/?hl=ko), chang.develop@gmail.com
